@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/afonso/Documents/BTI_2022.1/LP1/atividade-de-testes-TwoDotS2/negativos5/src/main.cpp
+iostream
+-
+
